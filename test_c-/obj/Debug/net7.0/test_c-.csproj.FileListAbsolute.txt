@@ -1,0 +1,14 @@
+C:\Users\Kevin\Documents\test_c-\bin\Debug\net7.0\test_c-.exe
+C:\Users\Kevin\Documents\test_c-\bin\Debug\net7.0\test_c-.deps.json
+C:\Users\Kevin\Documents\test_c-\bin\Debug\net7.0\test_c-.runtimeconfig.json
+C:\Users\Kevin\Documents\test_c-\bin\Debug\net7.0\test_c-.dll
+C:\Users\Kevin\Documents\test_c-\bin\Debug\net7.0\test_c-.pdb
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\test_c-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\test_c-.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\test_c-.AssemblyInfo.cs
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\test_c-.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\test_c-.dll
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\refint\test_c-.dll
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\test_c-.pdb
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\test_c-.genruntimeconfig.cache
+C:\Users\Kevin\Documents\test_c-\obj\Debug\net7.0\ref\test_c-.dll
