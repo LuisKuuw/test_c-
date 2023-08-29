@@ -1,0 +1,15 @@
+/Users/luismorelos/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora
+/Users/luismorelos/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.deps.json
+/Users/luismorelos/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.runtimeconfig.json
+/Users/luismorelos/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.dll
+/Users/luismorelos/Projects/calculadora/calculadora/bin/Debug/net7.0/calculadora.pdb
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.csproj.AssemblyReference.cache
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfoInputs.cache
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.AssemblyInfo.cs
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.csproj.CoreCompileInputs.cache
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.dll
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/refint/calculadora.dll
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.pdb
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/calculadora.genruntimeconfig.cache
+/Users/luismorelos/Projects/calculadora/calculadora/obj/Debug/net7.0/ref/calculadora.dll
